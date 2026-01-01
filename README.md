@@ -1,4 +1,4 @@
-# Exploring transcriptional profiles of mouse amygdala during opioid dependence and withdrawal using single-cell RNA-sequencing data
+# Exploring transcriptional profiles of opioid dependence and withdrawal in the amygdala
 
 Dataset: https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE207128
 

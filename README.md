@@ -4,6 +4,7 @@ Dataset: https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE207128
 
 TO DOs:
 - Merge all datasets and integrate in the pipeline
+- Differential expression
 
 
 Citations: 
